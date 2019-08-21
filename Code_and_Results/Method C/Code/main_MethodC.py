@@ -72,7 +72,7 @@ def saveSTL(polydata, filename):
     stlWriter2.Write()
 
 
-pdata_path = "/home/vjk/PycharmProjects/see-mode/smtech/processed/"
+pdata_path = "/home/vjk/PycharmProjects/smtech/processed/"
 
 # Read vtkImageData
 imageReader = read_vtifile('data/img.vti')
