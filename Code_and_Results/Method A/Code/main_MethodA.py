@@ -38,7 +38,7 @@ def display_slices(path, fname, ncol = 5, for_every = 3):
     plt.show()
 
 
-pdata_path = "/home/vjk/PycharmProjects/see-mode/smtech/processed/"
+pdata_path = "/home/vjk/PycharmProjects/smtech/processed/"
 
 
 # Read vtkImageData
